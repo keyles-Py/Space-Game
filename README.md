@@ -2,4 +2,4 @@ Check this out: This is a space-themed game where the player controls a rocket. 
 
 the full game will be provided as a .exe file due to repository size limit on GitHub.
 
-full game:
+full game: https://drive.google.com/file/d/1Dyi-fI9t90WDrJV1b6GR6jImZnB7vaua/view
